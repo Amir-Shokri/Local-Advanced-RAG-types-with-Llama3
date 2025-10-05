@@ -1,7 +1,7 @@
 <div align="center">
 
 <div style="margin: 20px 0;">
-  <img src="./assets/logo.png" width="180" height="180"  style="border-radius: 20px; box-shadow: 0 8px 32px rgba(0, 217, 255, 0.3);">
+  <img src="./assets/logo2.png" width="180" height="180"  style="border-radius: 20px; box-shadow: 0 8px 32px rgba(0, 217, 255, 0.3);">
 </div>
 
 # Local-Advanced-RAG-types-with-Llama3
@@ -11,9 +11,19 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=c709dcff&center=true&vCenter=true&width=600&lines=Welcome+to+Advanced+RAG+types;with+Local+Llama3" alt="Typing Animation" />
 </div>
 
----
-## RAG-Fusion
+
 <div align="left">
+
+---
+  
+## Types of Advanced RAG: 
+### 1. Multi-Query
+### 2. RAG-Fusion
+### 3. Answer recursively
+---
+### 1. Multi-Query
+The Multi-Query automates the process of prompt tuning by using an LLM to generate multiple queries from different perspectives for a given user input query. For each query, it retrieves a set of relevant documents and takes the unique union across all queries to get a larger set of potentially relevant documents. By generating multiple perspectives on the same question, the MultiQueryRetriever can mitigate some of the limitations of the distance-based retrieval and get a richer set of results.
+[Multi-Query](LocalRAG_MultiQuery_LLama3_Nvidia_Stocks.ipynb)
 
 <div style="margin: 20px 0;">
   <img src="./assets/RAG-Fusion.jpg" width="1747" height="507"  style="border-radius: 20px; box-shadow: 0 8px 32px rgba(0, 217, 255, 0.3);">
@@ -22,7 +32,28 @@
 
 
 ---
+### 2. RAG-Fusion
+RAG-Fusion, a search methodology that aims to bridge the gap between traditional search paradigms and the multifaceted dimensions of human queries. Inspired by the capabilities of Retrieval Augmented Generation (RAG), this project goes a step further by employing multiple query generation and Reciprocal Rank Fusion to re-rank search results.
 
+
+<div style="margin: 20px 0;">
+  <img src="./assets/RAG-Fusion.jpg" width="1747" height="507"  style="border-radius: 20px; box-shadow: 0 8px 32px rgba(0, 217, 255, 0.3);">
+  
+</div>
+
+
+---
+### 3. Answer recursively
+RAG-Fusion, a search methodology that aims to bridge the gap between traditional search paradigms and the multifaceted dimensions of human queries. Inspired by the capabilities of Retrieval Augmented Generation (RAG), this project goes a step further by employing multiple query generation and Reciprocal Rank Fusion to re-rank search results.
+
+
+<div style="margin: 20px 0;">
+  <img src="./assets/RAG-Fusion.jpg" width="1747" height="507"  style="border-radius: 20px; box-shadow: 0 8px 32px rgba(0, 217, 255, 0.3);">
+  
+</div>
+
+
+---
 ## 🌟 System Overview
 
 *Next-Generation Multimodal Intelligence*
