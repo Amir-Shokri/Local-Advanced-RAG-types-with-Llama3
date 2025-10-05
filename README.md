@@ -1,51 +1,14 @@
 <div align="center">
 
 <div style="margin: 20px 0;">
-  <img src="./assets/logo.png" width="180" height="180" alt="RAG-Anything Logo" style="border-radius: 20px; box-shadow: 0 8px 32px rgba(0, 217, 255, 0.3);">
+  <img src="./assets/logo.png" width="180" height="180"  style="border-radius: 20px; box-shadow: 0 8px 32px rgba(0, 217, 255, 0.3);">
 </div>
 
-# 🚀Local-Advanced-RAG-types-with-Llama3
+# Local-Advanced-RAG-types-with-Llama3
 
-<a href="https://trendshift.io/repositories/14959" target="_blank"><img src="https://trendshift.io/api/badge/repositories/14959" alt="HKUDS%2FRAG-Anything | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+RAG-Anything;Next-Gen+Multimodal+RAG+System;Powered+by+Advanced+AI+Technology" alt="Typing Animation" />
-</div>
-
-<div align="center">
-  <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 15px; padding: 25px; text-align: center;">
-    <p>
-      <a href='https://github.com/HKUDS/RAG-Anything'><img src='https://img.shields.io/badge/🔥Project-Page-00d9ff?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e'></a>
-      <a href='https://arxiv.org/abs/2410.05779'><img src='https://img.shields.io/badge/📄arXiv-2410.05779-ff6b6b?style=for-the-badge&logo=arxiv&logoColor=white&labelColor=1a1a2e'></a>
-      <a href='https://github.com/HKUDS/LightRAG'><img src='https://img.shields.io/badge/⚡Based%20on-LightRAG-4ecdc4?style=for-the-badge&logo=lightning&logoColor=white&labelColor=1a1a2e'></a>
-    </p>
-    <p>
-      <a href="https://github.com/HKUDS/RAG-Anything/stargazers"><img src='https://img.shields.io/github/stars/HKUDS/RAG-Anything?color=00d9ff&style=for-the-badge&logo=star&logoColor=white&labelColor=1a1a2e' /></a>
-      <img src="https://img.shields.io/badge/🐍Python-3.10-4ecdc4?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a2e">
-      <a href="https://pypi.org/project/raganything/"><img src="https://img.shields.io/pypi/v/raganything.svg?style=for-the-badge&logo=pypi&logoColor=white&labelColor=1a1a2e&color=ff6b6b"></a>
-      <a href="https://github.com/astral-sh/uv"><img src="https://img.shields.io/badge/⚡uv-Ready-ff6b6b?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a2e"></a>
-    </p>
-    <p>
-      <a href="https://discord.gg/yF2MmDJyGJ"><img src="https://img.shields.io/badge/💬Discord-Community-7289da?style=for-the-badge&logo=discord&logoColor=white&labelColor=1a1a2e"></a>
-      <a href="https://github.com/HKUDS/RAG-Anything/issues/7"><img src="https://img.shields.io/badge/💬WeChat-Group-07c160?style=for-the-badge&logo=wechat&logoColor=white&labelColor=1a1a2e"></a>
-    </p>
-    <p>
-      <a href="README_zh.md"><img src="https://img.shields.io/badge/🇨🇳中文版-1a1a2e?style=for-the-badge"></a>
-      <a href="README.md"><img src="https://img.shields.io/badge/🇺🇸English-1a1a2e?style=for-the-badge"></a>
-    </p>
-  </div>
-</div>
-
-</div>
-
-<div align="center">
-  <div style="width: 100%; height: 2px; margin: 20px 0; background: linear-gradient(90deg, transparent, #00d9ff, transparent);"></div>
-</div>
-
-<div align="center">
-  <a href="#-quick-start" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Quick%20Start-Get%20Started%20Now-00d9ff?style=for-the-badge&logo=rocket&logoColor=white&labelColor=1a1a2e">
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=c709dcff&center=true&vCenter=true&width=600&lines=Welcome+to+Advanced+RAG+types;with+Local+Llama3" alt="Typing Animation" />
 </div>
 
 ---
