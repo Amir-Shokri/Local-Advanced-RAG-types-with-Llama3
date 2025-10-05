@@ -26,7 +26,7 @@ The Multi-Query automates the process of prompt tuning by using an LLM to genera
 
 
 <div style="margin: 20px 0;">
-  <img src="./assets/Multi-Query1.png" width="1747" height="507"  style="border-radius: 20px; box-shadow: 0 8px 32px rgba(0, 217, 255, 0.3);">
+  <img src="./assets/Multi-Query1.png" width="1747" height="600"  style="border-radius: 20px; box-shadow: 0 8px 32px rgba(0, 217, 255, 0.3);">
   
 </div>
 
@@ -37,7 +37,7 @@ RAG-Fusion, a search methodology that aims to bridge the gap between traditional
 
 
 <div style="margin: 20px 0;">
-  <img src="./assets/RAG-Fusion1.png" width="1747" height="507"  style="border-radius: 20px; box-shadow: 0 8px 32px rgba(0, 217, 255, 0.3);">
+  <img src="./assets/RAG-Fusion1.png" width="1747" height="600"  style="border-radius: 20px; box-shadow: 0 8px 32px rgba(0, 217, 255, 0.3);">
   
 </div>
 
@@ -52,7 +52,7 @@ The recursive RAG method, exemplified by Interleaving Retrieval with Chain-of-Th
 
 
 <div style="margin: 20px 0;">
-  <img src="./assets/Answer recursively2.png" width="1747" height="507"  style="border-radius: 20px; box-shadow: 0 8px 32px rgba(0, 217, 255, 0.3);">
+  <img src="./assets/Answer recursively2.png" width="1747" height="600"  style="border-radius: 20px; box-shadow: 0 8px 32px rgba(0, 217, 255, 0.3);">
   
 </div>
 
