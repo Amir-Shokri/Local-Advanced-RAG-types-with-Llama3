@@ -12,12 +12,14 @@
 </div>
 
 ---
+## RAG-Fusion
+<div align="left">
 
-## 🎉 News
-- [X] [2025.08.12]🎯📢 🔍 RAG-Anything now features **VLM-Enhanced Query** mode! When documents include images, the system seamlessly integrates them into VLM for advanced multimodal analysis, combining visual and textual context for deeper insights.
-- [X] [2025.07.05]🎯📢 RAG-Anything now features a [context configuration module](docs/context_aware_processing.md), enabling intelligent integration of relevant contextual information to enhance multimodal content processing.
-- [X] [2025.07.04]🎯📢 🚀 RAG-Anything now supports multimodal query capabilities, enabling enhanced RAG with seamless processing of text, images, tables, and equations.
-- [X] [2025.07.03]🎯📢 🎉 RAG-Anything has reached 1k🌟 stars on GitHub! Thank you for your incredible support and valuable contributions to the project.
+<div style="margin: 20px 0;">
+  <img src="./assets/RAG-Fusion.jpg" width="1747" height="507"  style="border-radius: 20px; box-shadow: 0 8px 32px rgba(0, 217, 255, 0.3);">
+  
+</div>
+
 
 ---
 
