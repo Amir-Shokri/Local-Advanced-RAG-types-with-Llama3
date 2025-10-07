@@ -21,7 +21,7 @@
 - [RAG-Fusion](#RAG-Fusion)
 - [Answer recursively](#Answer-recursively)
 - [Answer individually](#Answer-individually)
-- [Hypothetical Document Embeddings HyDE](#Hypothetical-Document-Embeddings-HyDE)
+- [Hypothetical Document Embeddings (HyDE)](#Hypothetical-Document-Embeddings-HyDE)
 
 
 ---
