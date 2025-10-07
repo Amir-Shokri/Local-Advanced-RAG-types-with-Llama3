@@ -35,7 +35,7 @@ The Multi-Query automates the process of prompt tuning by using an LLM to genera
 
 
 ---
-# RAG-Fusion
+# RAG-Fusion (LocalRAG_RAGFusion_LLama3_Nvidia_Stocks.ipynb)
 ### 2. [RAG-Fusion](LocalRAG_RAGFusion_LLama3_Nvidia_Stocks.ipynb)
 RAG-Fusion, a search methodology that aims to bridge the gap between traditional search paradigms and the multifaceted dimensions of human queries. Inspired by the capabilities of Retrieval Augmented Generation (RAG), this project goes a step further by employing multiple query generation and Reciprocal Rank Fusion to re-rank search results.
 
