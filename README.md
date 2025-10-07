@@ -61,7 +61,8 @@ The recursive RAG method, exemplified by Interleaving Retrieval with Chain-of-Th
 
 
 ---
-### 4. [Answer individually](LocalRAG_ Answer_individually_LLama3_Nvidia_Stocks.ipynb)
+
+### 4. [Answer individually](LocalRAG_Answer_individually_LLama3_Nvidia_Stocks.ipynb)
 The Multi-Query automates the process of prompt tuning by using an LLM to generate multiple queries from different perspectives for a given user input query. For each query, it retrieves a set of relevant documents and takes the unique union across all queries to get a larger set of potentially relevant documents. By generating multiple perspectives on the same question, the MultiQueryRetriever can mitigate some of the limitations of the distance-based retrieval and get a richer set of results.
 
 
