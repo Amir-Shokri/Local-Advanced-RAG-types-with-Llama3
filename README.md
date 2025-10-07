@@ -21,7 +21,7 @@
 - [RAG-Fusion](#RAG-Fusion)
 - [Answer recursively](#Answer-recursively)
 - [Answer individually](#Answer-individually)
-- [Hypothetical Document Embeddings (HyDE)](#Hypothetical-Document-Embeddings(HyDE))
+- [Hypothetical Document Embeddings (HyDE)](#Hypothetical-Document-Embeddings-(HyDE))
 
 
 ---
@@ -91,7 +91,7 @@ The Hypothetical Document Embeddings (HyDE) method is a fully zero-shot dense re
 
 
 <div style="margin: 20px 0;">
-  <img src="./assets/HyDE.png" width="1747" height="600"  style="border-radius: 20px; box-shadow: 0 8px 32px rgba(0, 217, 255, 0.3);">
+  <img src="./assets/HyDE.png" width="1747" height="500"  style="border-radius: 20px; box-shadow: 0 8px 32px rgba(0, 217, 255, 0.3);">
   
 </div>
 
