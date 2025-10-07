@@ -63,7 +63,7 @@ The recursive RAG method, exemplified by Interleaving Retrieval with Chain-of-Th
 ---
 
 ### 4. [Answer individually](LocalRAG_Answer_individually_LLama3_Nvidia_Stocks.ipynb)
-The Multi-Query automates the process of prompt tuning by using an LLM to generate multiple queries from different perspectives for a given user input query. For each query, it retrieves a set of relevant documents and takes the unique union across all queries to get a larger set of potentially relevant documents. By generating multiple perspectives on the same question, the MultiQueryRetriever can mitigate some of the limitations of the distance-based retrieval and get a richer set of results.
+An advanced method for information retrieval and question answering called the Answer Individually .In this method, a main Question is broken down into multiple sub-questions (Q1, Q2, Q3). Each sub-question independently uses a Vectorstore to retrieve relevant Documents. Subsequently, a Large Language Model processes each set of retrieved documents to generate an Answer for that specific sub-question. Finally, all the individual answers generated for the sub-questions are combined and processed again by a final LLM to provide a comprehensive and final Answer to the original main question. This approach allows the model to better handle the complexities of multi-faceted questions and deliver more accurate and complete responses.
 
 
 <div style="margin: 20px 0;">
