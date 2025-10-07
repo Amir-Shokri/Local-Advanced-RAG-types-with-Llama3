@@ -85,7 +85,7 @@ An advanced method for information retrieval and question answering called the A
 
 ---
 
-### [Hypothetical Document Embeddings (HyDE)](LocalRAG_Answer_individually_LLama3_Nvidia_Stocks.ipynb)
+### [Hypothetical Document Embeddings (HyDE)](LocalRAG_HyDE_LLama3_Nvidia_Stocks.ipynb)
 <p align="justify"> 
 The Hypothetical Document Embeddings (HyDE) method is a fully zero-shot dense retrieval approach that avoids the need for relevance labels by pivoting through a generated, hypothetical document. Given a query, HyDE first uses an instruction-following language model (like InstructGPT) to generate a hypothetical document that captures relevance patterns related to the query, even though it may be factually incorrect or "unreal". Then, an unsupervised contrastive encoder (like Contriever) encodes this generated document into an embedding vector. This vector is used to identify a neighborhood in the corpus embedding space, allowing the retrieval of similar real documents based on vector similarity, with the encoder's dense bottleneck serving to filter out the incorrect details of the hypothetical document. This process casts the retrieval task into a generative task and a document-document similarity task, without explicitly modeling or computing a query-document similarity score.  </p>
 
