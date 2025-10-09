@@ -16,7 +16,9 @@
 
 ---
   
-## Types of Advanced RAG: 
+## Types of Advanced RAG:
+### Query Transformations
+
 - [Multi-Query](#multi-query)
 - [RAG-Fusion](#RAG-Fusion)
 - [Answer recursively](#Answer-recursively)
