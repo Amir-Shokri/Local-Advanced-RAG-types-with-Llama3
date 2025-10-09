@@ -8,7 +8,7 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=c709dcff&center=true&vCenter=true&width=600&lines=Welcome+to+Advanced+RAG+types;with+Local+Llama3" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=c709dcff&center=true&vCenter=true&width=600&lines=Welcome+to+Advanced+RAG+types;with+Local+Llama3" alt="Typing Animation" />
 </div>
 
 
