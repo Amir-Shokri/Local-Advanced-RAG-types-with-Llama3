@@ -13,7 +13,7 @@
 
 
 <div style="margin: 20px 0;">
-  <img src="./assets/HyDE2.png" width="900" height="600"  style="border-radius: 20px; box-shadow: 0 8px 32px rgba(0, 217, 255, 0.3);">
+  <img src="./assets/HyDE2.png" width="800" height="600"  style="border-radius: 20px; box-shadow: 0 8px 32px rgba(0, 217, 255, 0.3);">
   
 </div>
 
